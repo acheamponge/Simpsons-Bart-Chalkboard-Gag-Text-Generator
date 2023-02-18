@@ -1,7 +1,3 @@
-
-# Ama Ata Aidoo Language Model
-
-
 ## Things to note
 - This is the deployed app with streamlit on Heroku.
 - Model is found in the model folder as a Jupyter Notebook.
